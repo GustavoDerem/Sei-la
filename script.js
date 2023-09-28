@@ -1,0 +1,3 @@
+function funcaoresposta(){
+    var resposta
+}
